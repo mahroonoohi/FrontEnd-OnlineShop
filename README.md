@@ -22,6 +22,4 @@ RUELALA:
 
 
 
-
-
 ![Screenshot (1075)](https://user-images.githubusercontent.com/83461302/185558210-481080fc-3514-4c3d-8064-79413066d28a.png)
