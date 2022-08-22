@@ -4,3 +4,25 @@
     --color-text: #0c0c0c;
     --color-web-content: #fff2f6;
 }
+
+/*typography*/
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 5.5rem;
+}
+
+h2{
+    font-size: 4rem;
+    margin-bottom: 1rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
